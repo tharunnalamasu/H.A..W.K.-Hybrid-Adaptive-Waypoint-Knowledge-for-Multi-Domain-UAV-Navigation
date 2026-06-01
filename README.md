@@ -171,13 +171,6 @@ matplotlib
 
 ---
 
-## 📸 Screenshots / Demo
-
-> *Add simulation screenshots, detection outputs, or demo video link here*
-
-| Object Detection | Waypoint Map | Navigation Output |
-|-----------------|--------------|-------------------|
-| ![detection](#) | ![waypoint](#) | ![nav](#) |
 
 ---
 
