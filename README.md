@@ -185,9 +185,6 @@ matplotlib
 
 ---
 
-## 🌐 Research Paper
-
-🔗 [Read the Published Paper](#) *(add your publication link here)*
 
 ---
 
